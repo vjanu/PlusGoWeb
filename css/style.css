@@ -1040,6 +1040,127 @@ h6 {
   margin: 0 2px;
 }
 
+/* Milestone  Section
+--------------------------------*/
+
+#milestone {
+  background:  #ecf5ff;
+  padding: 60px 0;
+}
+
+
+#milestone .milestone-container .background {
+  margin: 20px 0;
+}
+
+#milestone .milestone-container .content {
+  background: #fff;
+}
+
+#milestone .milestone-container .title {
+  color: #333;
+  font-weight: 700;
+  font-size: 32px;
+}
+
+#milestone .milestone-container p {
+  line-height: 26px;
+}
+
+#milestone .milestone-container p:last-child {
+  margin-bottom: 0;
+}
+
+#milestone .milestone-container .icon-box {
+  background: #fff;
+  background-size: cover;
+  padding: 0 0 30px 0;
+}
+
+#milestone .milestone-container .icon-box .icon {
+  float: left;
+  background: #fff;
+  width: 64px;
+  height: 64px;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+  -webkit-justify-content: center;
+  -ms-flex-pack: center;
+  justify-content: center;
+  -webkit-box-align: center;
+  -webkit-align-items: center;
+  -ms-flex-align: center;
+  align-items: center;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+  -webkit-flex-direction: column;
+  -ms-flex-direction: column;
+  flex-direction: column;
+  text-align: center;
+  border-radius: 50%;
+  border: 2px solid #007bff;
+  transition: all 0.3s ease-in-out;
+}
+
+#milestone .milestone-container .icon-box .icon i {
+  color: #007bff;
+  font-size: 24px;
+}
+
+#milestone .milestone-container .icon-box:hover .icon {
+  background: #007bff;
+}
+
+#milestone .milestone-container .icon-box:hover .icon i {
+  color: #fff;
+}
+
+#milestone .milestone-container .icon-box .title {
+  margin-left: 80px;
+  font-weight: 600;
+  margin-bottom: 5px;
+  font-size: 18px;
+}
+
+#milestone .milestone-container .icon-box .title a {
+  color: #283d50;
+}
+
+#milestone .milestone-container .icon-box .description {
+  margin-left: 80px;
+  line-height: 24px;
+  font-size: 14px;
+}
+
+#milestone .milestone-extra {
+  padding-top: 60px;
+}
+
+#milestone .milestone-extra h4 {
+  font-weight: 600;
+  font-size: 24px;
+}
+
+#milestone .center-button .btn-read-more {
+  background: #007bff;
+  border: 2px solid #007bff;
+  color: #fff;
+}
+
+#milestone .center-button .btn-read-more:hover {
+  background:#fff;
+  border : 2px solid #007bff;
+  color: #007bff;
+}
+
+#milestone .center-button{
+  text-align: center;
+}
+
+
 /* Clients Section
 --------------------------------*/
 
