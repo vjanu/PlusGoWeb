@@ -1,7 +1,6 @@
 -- Guide to start the web site on a local PC
 
-1. Install Node Package Manager (NPM)
-2. Install the http-server by using 'npm install -g http-server'
-3. Change directory to 'acresense-lp'
-4. Run the command 'http-server -p 8085' to start the website
-5. Surf to 'http://127.0.0.1:8085' to view the website
+1. Download the folder and Extract it to your location
+2. Double click on the index.html and it will open the website on the browser
+3. Don't change any file location in the downloaded folder
+
